@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "genre": "Fiction",
+    "author": "65d2c8b5f8a2c9d1e4a9b6c3",
+    "publishedYear": 1925,
+    "availableCopies": 5
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "genre": "Fiction",
+    "author": "65d2c8b5f8a2c9d1e4a9b6c4",
+    "publishedYear": 1960,
+    "availableCopies": 3
+  },
+  {
+    "title": "1984",
+    "genre": "Dystopian",
+    "author": "65d2c8b5f8a2c9d1e4a9b6c5",
+    "publishedYear": 1949,
+    "availableCopies": 4
+  },
+  {
+    "title": "Pride and Prejudice",
+    "genre": "Romance",
+    "author": "65d2c8b5f8a2c9d1e4a9b6c6",
+    "publishedYear": 1813,
+    "availableCopies": 7
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "genre": "Fiction",
+    "author": "65d2c8b5f8a2c9d1e4a9b6c7",
+    "publishedYear": 1951,
+    "availableCopies": 2
+  },
+  {
+    "title": "Moby-Dick",
+    "genre": "Adventure",
+    "author": "65d2c8b5f8a2c9d1e4a9b6c8",
+    "publishedYear": 1851,
+    "availableCopies": 6
+  },
+  {
+    "title": "War and Peace",
+    "genre": "Historical Fiction",
+    "author": "65d2c8b5f8a2c9d1e4a9b6c9",
+    "publishedYear": 1869,
+    "availableCopies": 3
+  },
+  {
+    "title": "The Hobbit",
+    "genre": "Fantasy",
+    "author": "65d2c8b5f8a2c9d1e4a9b6ca",
+    "publishedYear": 1937,
+    "availableCopies": 5
+  },
+  {
+    "title": "Crime and Punishment",
+    "genre": "Philosophical Fiction",
+    "author": "65d2c8b5f8a2c9d1e4a9b6cb",
+    "publishedYear": 1866,
+    "availableCopies": 4
+  },
+  {
+    "title": "The Alchemist",
+    "genre": "Adventure",
+    "author": "65d2c8b5f8a2c9d1e4a9b6cc",
+    "publishedYear": 1988,
+    "availableCopies": 6
+  }
+]
